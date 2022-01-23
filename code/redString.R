@@ -46,8 +46,15 @@ from <- from[!duplicated(from),]
 to <- as.data.frame(interactions_filtered$to)
 to <- to[!duplicated(to),]
 
-proteins <- as.data.frame(append(from, to))
-proteins <- proteins[!duplicated(proteins),]
+proteins_string <- as.data.frame(append(from, to))
+proteins_string <- proteins_string[!duplicated(proteins_string),]
+
+# transformar a genename
+proteins <- c()
+for (i in 1:length(proteins_string)){
+  prot <- as.character(protein_mapped[protein_mapped$STRING_id==proteins_string[i],1])
+  proteins <- c(proteins, prot)
+}
 
 # guardar la lista de proteinas
 write.table(proteins, "results/human_proteins.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
