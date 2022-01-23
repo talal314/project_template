@@ -50,7 +50,9 @@ proteins <- as.data.frame(append(from, to))
 proteins <- proteins[!duplicated(proteins),]
 
 # guardar la lista de proteinas
-write.table(proteins, "human_proteins.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+write.table(proteins, "results/human_proteins.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+
+
 
 
 
