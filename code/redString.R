@@ -1,3 +1,12 @@
+args = commandArgs(trailingOnly=TRUE)
+
+# test if there is at least one argument: if not, return an error
+if (length(args)==0) {
+  stop("Necesita el archivo de red como argumento", call.=FALSE)
+}else if (length(args)==1) {
+  stop("Necesita nombre del fichero de salida como argumento", call.=FALSE)
+}
+
 library(tidyverse)
 library(readxl)
 library(igraph)
@@ -7,8 +16,24 @@ library("AnnotationDbi")
 library("org.Hs.eg.db")
 set.seed(23094)
 
+
+proteinas_entrada <- args[1]
+fichero_salida <- args[2]
+
+#funciones
+plot_graph <- function(graph, vertex_color="tomato"){
+  V(graph)$label <- NA
+  V(graph)$name <- NA
+  V(graph)$size <- degree(graph)/10
+  E(graph)$edge.color <- "gray80"
+  E(graph)$width <- .2
+  V(graph)$color <- vertex_color
+  graph_attr(graph, "layout") <- layout_with_lgl
+  plot(graph)
+}
+
 # Lectura del excel con los datos de las proteínas del interactoma
-df_original <- read_excel("results/proteinas_humanas.xlsx")
+df_original <- read_excel(proteinas_entrada)
 
 # Ajuste del dataframe para su uso
 colnames(df_original) <- df_original[1,]
@@ -24,14 +49,17 @@ df$ensid = mapIds(org.Hs.eg.db,
 
 # carga de la red de proteinas humans
 string_db <- STRINGdb$new(version="11", species=9606, score_threshold=400, input_directory="" )
-#string.network <- string_db$get_graph()
 
 # mapeo de las proteínas de nuestro interactoma
 protein_mapped <- string_db$map(df, "PreyGene", removeUnmappedRows = TRUE ) 
 
 # encontrar la subred con las interacciones
 hits <- protein_mapped$STRING_id
-#hits.network <- string_db$get_subnetwork(hits)
+hits.network <- string_db$get_subnetwork(hits)
+# plot the graph
+png("resultados/01_plot_hits.png")
+plot_graph(hits.network, 10)
+dev.off()
 
 # obtener el peso de las relaciones entre las proteinas
 interactions <- string_db$get_interactions(hits)
@@ -57,7 +85,7 @@ for (i in 1:length(proteins_string)){
 }
 
 # guardar la lista de proteinas
-write.table(proteins, "results/human_proteins.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+write.table(proteins, fichero_salida, quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 
 
