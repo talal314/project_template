@@ -7,6 +7,8 @@ if (length(args)==0) {
   stop("Necesita nombre del fichero de salida como argumento", call.=FALSE)
 }
 
+library(readr)
+
 proteinas_entrada <- args[1]
 fichero_salida <- args[2]
 
@@ -21,8 +23,8 @@ convertir <- function(gene_uniprot) {
   return(as.character(gnm[1]))
 }
 
-proteins$UNIPROT <- sapply(data$X1, convertir)
+data$UNIPROT <- sapply(data$X1, convertir)
 
-write.table(proteins, fichero_salida, quote = FALSE, row.names = FALSE, col.names = FALSE)
+write.table(data$UNIPROT, fichero_salida, quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 
