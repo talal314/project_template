@@ -1,0 +1,521 @@
+compound_name,max_phase,action_type,pref_name,accession
+Bortezomib,4,INHIBITOR,BORTEZOMIB,P48556
+Bortezomib,4,INHIBITOR,BORTEZOMIB,P48556
+Carfilzomib,4,INHIBITOR,CARFILZOMIB,P48556
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q8TD19
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q8TD19
+TG-101348,4,INHIBITOR,FEDRATINIB,Q8TD19
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q8TD19
+TG-101348,4,INHIBITOR,FEDRATINIB,Q8TD19
+Fostamatinib,4,INHIBITOR,FOSTAMATINIB,Q8TD19
+SID56422196,4,ANTAGONIST,PROMETHAZINE HYDROCHLORIDE,P55789
+SID56422196,4,ANTAGONIST,PROMETHAZINE HYDROCHLORIDE,P55789
+SID49666419,4,ANTAGONIST,OLANZAPINE,P55789
+SID56422196,4,ANTAGONIST,PROMETHAZINE HYDROCHLORIDE,P55789
+SID49666419,4,ANTAGONIST,OLANZAPINE,P55789
+SID49645132,4,INHIBITOR,MEPAZINE ACETATE,P55789
+"(2R,3S,4R,5S)-2-Hydroxymethyl-piperidine-3,4,5-triol",4,STABILISER,MIGALASTAT,P06280
+"(2R,3S,4R,5S)-2-Hydroxymethyl-piperidine-3,4,5-triol",4,STABILISER,MIGALASTAT,P06280
+1-deoxygalactonojirimycin,4,STABILISER,MIGALASTAT,P06280
+"(2R,3S,4R,5S)-2-Hydroxymethyl-piperidine-3,4,5-triol",4,STABILISER,MIGALASTAT,P06280
+1-deoxygalactonojirimycin,4,STABILISER,MIGALASTAT,P06280
+SID50106954,4,ANTAGONIST,SOTALOL HYDROCHLORIDE,P06280
+"(2R,3S,4R,5S)-2-Hydroxymethyl-piperidine-3,4,5-triol",4,STABILISER,MIGALASTAT,P06280
+1-deoxygalactonojirimycin,4,STABILISER,MIGALASTAT,P06280
+SID50106954,4,ANTAGONIST,SOTALOL HYDROCHLORIDE,P06280
+SID50106954,4,BLOCKER,SOTALOL HYDROCHLORIDE,P06280
+PKC-412,4,INHIBITOR,MIDOSTAURIN,P17612
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Amlexanox,4,INHIBITOR,AMLEXANOX,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Amlexanox,4,INHIBITOR,AMLEXANOX,Q9UHD2
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Amlexanox,4,INHIBITOR,AMLEXANOX,Q9UHD2
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Amlexanox,4,INHIBITOR,AMLEXANOX,Q9UHD2
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+Midostaurin,4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+Bosutinib,4,INHIBITOR,BOSUTINIB,Q9UHD2
+SKI-606,4,INHIBITOR,BOSUTINIB,Q9UHD2
+Crizotinib,4,INHIBITOR,CRIZOTINIB,Q9UHD2
+Amlexanox,4,INHIBITOR,AMLEXANOX,Q9UHD2
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+Midostaurin,4,INHIBITOR,MIDOSTAURIN,Q9UHD2
+TG-101348,4,INHIBITOR,FEDRATINIB,Q9UHD2
+Palbociclib,4,INHIBITOR,PALBOCICLIB,P19784
+Palbociclib,4,INHIBITOR,PALBOCICLIB,P19784
+Abemaciclib,4,INHIBITOR,ABEMACICLIB,P19784
+Palbociclib,4,INHIBITOR,PALBOCICLIB,P19784
+Abemaciclib,4,INHIBITOR,ABEMACICLIB,P19784
+Gilteritinib,4,INHIBITOR,GILTERITINIB,P19784
+Palbociclib,4,INHIBITOR,PALBOCICLIB,P19784
+Abemaciclib,4,INHIBITOR,ABEMACICLIB,P19784
+Gilteritinib,4,INHIBITOR,GILTERITINIB,P19784
+TG-101348,4,INHIBITOR,FEDRATINIB,P19784
+TG-101348,4,INHIBITOR,FEDRATINIB,O14578
+TG-101348,4,INHIBITOR,FEDRATINIB,O14578
+Abemaciclib,4,INHIBITOR,ABEMACICLIB,O14578
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+Baricitinib,4,INHIBITOR,BARICITINIB,Q7KZI7
+PKC-412,4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+"N-{5-methoxy-6-methyl-18-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.1^{2,6}.0^{7,28}.0^{8,13}.0^{15,19}.0^{20,27}.0^{21,26}]nonacosa-8,10,12,14(28),15(19),20(27),21(26),22,24-nonaen-4-yl}-N-methylbenzamide",4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+Baricitinib,4,INHIBITOR,BARICITINIB,Q7KZI7
+Midostaurin,4,INHIBITOR,MIDOSTAURIN,Q7KZI7
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romidepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romidepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+N-hydroxy-3-(3-phenylsulfamoyl-phenyl)-acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romidepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+N-hydroxy-3-(3-phenylsulfamoyl-phenyl)-acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+N-hydroxy-3-(3-(N-phenylsulfamoyl)phenyl)acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romidepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+N-hydroxy-3-(3-phenylsulfamoyl-phenyl)-acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+N-hydroxy-3-(3-(N-phenylsulfamoyl)phenyl)acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+Belinostat,4,INHIBITOR,BELINOSTAT,Q92769
+Octanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+Heptanedioic acid hydroxyamide phenylamide,4,INHIBITOR,VORINOSTAT,Q92769
+N1-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+N'-hydroxy-N8-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanilidehydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Saha,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylamide Hydroxamic Acid,4,INHIBITOR,VORINOSTAT,Q92769
+N-hydroxy-N'-phenyloctanediamide,4,INHIBITOR,VORINOSTAT,Q92769
+Votinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+"CHEMBL98::N-hydroxy-N'-phenyloctanediamide::SAHA::US9115116, SAHA::US9353061, SAHA::US9428447, SAHA::Vorinostat::Zolinza::cid_5311::suberoylanilide hydroxamic acid",4,INHIBITOR,VORINOSTAT,Q92769
+suberoyl anilide hydroxy amide,4,INHIBITOR,VORINOSTAT,Q92769
+suberoylanalide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Suberoylanilide hydroxamic acid; Vorinostat,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberoylanilide hydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+Vorinostat; Suberanilohydroxamic acid,4,INHIBITOR,VORINOSTAT,Q92769
+8-(hydroxyamino)-8-oxo-N-phenyl-octanamide,4,INHIBITOR,VORINOSTAT,Q92769
+"(1S,4S,9S,21R)-7-Ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+FK-228,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,10S,21R)-7-Ethylidene-4-((S)-isopropyl)-21-isopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraaza-bicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romedepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+"(1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetraazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentaone",4,INHIBITOR,ROMIDEPSIN,Q92769
+Romidepsin,4,INHIBITOR,ROMIDEPSIN,Q92769
+N-hydroxy-3-(3-phenylsulfamoyl-phenyl)-acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+N-hydroxy-3-(3-(N-phenylsulfamoyl)phenyl)acrylamide,4,INHIBITOR,BELINOSTAT,Q92769
+Belinostat,4,INHIBITOR,BELINOSTAT,Q92769
+Belinosta,4,INHIBITOR,BELINOSTAT,Q92769
