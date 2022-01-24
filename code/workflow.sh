@@ -8,7 +8,7 @@ Rscript code/redString.R results/proteinas_humanas.xlsx results/human_proteins.t
 echo "Archivo results/human_proteins.txt creado"
 
 echo "2. Transformamos el ID de las proteínas a Uniprot, para usarlos en Chembl DB"
-Rscript code/convertirUniprot.R results/human_proteins.txt results/proteinas_humanas_uniprot.txt
+Rscript code/convertirUniprot.R results/human_proteins.txt results/human_proteins_uniprot.txt
 echo "Archivo results/human_proteins_uniprot.txt creado"
 
 echo "3. Buscamos en Chembl los fármacos asociados a estas proteínas"
