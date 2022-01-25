@@ -16,6 +16,6 @@ python code/consultarChembl.py results/human_proteins_uniprot.txt results/farmac
 echo "Archivos results/farmacos_aprobados.csv y results/farmacos_experimentales.csv creados"
 
 echo "4. Análisis de los resultados"
-Rscript code/análisisResultados.R results/farmacos_aprobados.csv 
-Rscript code/análisisResultados.R results/farmacos_experimentales.csv
+Rscript code/analisisResultados.R results/farmacos_aprobados.csv aprobados
+Rscript code/analisisResultados.R results/farmacos_experimentales.csv experimentales
 echo "Imágenes y gráficas creadas"
