@@ -12,7 +12,7 @@ library(ggplot2)
 farmacos <- args[1]
 tipo <- args[2]
 
-farmacos <- read.csv("results/farmacos_aprobados.csv", sep = ",")
+farmacos <- read.csv(farmacos, sep = ",")
 
 # obtenemos el dataframe de los farmacos sin repeticiones
 farmacos <- unique(farmacos[ , ])
@@ -22,7 +22,6 @@ write.table(farmacos$compound_name, paste("results/02_lista_farmacos_",tipo,".tx
 
 # evaluamos el tipo de los farmacos
 farmacos_type <- farmacos$action_type
-farmacos_exprementales_type <- farmacos_exprementales$action_type
 
 # guardamos el diagrama
 png(paste("results/03_tipo_farmacos_", tipo, ".png", sep = ""))
