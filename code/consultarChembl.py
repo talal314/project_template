@@ -6,7 +6,6 @@ import os
 if(len(sys.argv)!=3):
     print("Error, use: python3 <python file> <human_proteins_uniprot.txt> <max_phase> <result.csv>")
 
-print(sys.argv[3])
 
 fileExist = os.path.exists(sys.argv[3])
 # Get genes from file.txt

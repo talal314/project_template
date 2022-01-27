@@ -12,10 +12,11 @@ Rscript code/convertirUniprot.R results/human_proteins.txt results/human_protein
 echo "Archivo results/human_proteins_uniprot.txt creado"
 
 echo "3. Buscamos en Chembl los fármacos asociados a estas proteínas"
-python code/consultarChembl.py results/human_proteins_uniprot.txt results/farmacos_aprobados.csv results/farmacos_experimentales.csv
+python3 code/consultarChembl.py results/human_proteins_uniprot.txt 4 results/farmacos_aprobados.csv
+python3 code/consultarChembl.py results/human_proteins_uniprot.txt 3 results/farmacos_experimentales.csv
 echo "Archivos results/farmacos_aprobados.csv y results/farmacos_experimentales.csv creados"
 
 echo "4. Análisis de los resultados"
-Rscript code/análisisResultados.R results/farmacos_aprobados.csv 
-Rscript code/análisisResultados.R results/farmacos_experimentales.csv
+Rscript code/analisisResultados.R results/farmacos_aprobados.csv aprobados
+Rscript code/analisisResultados.R results/farmacos_experimentales.csv experimentales
 echo "Imágenes y gráficas creadas"
