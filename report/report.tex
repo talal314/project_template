@@ -33,7 +33,7 @@
 			%% INTRODUCIR TITULO PROYECTO               %%
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			
-			\title{A sample article title}
+			\title{Reposicionamiento de fármacos en COVID-19}
 			
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			%% AUTORES. METER UNA ENTRADA AUTHOR        %%
@@ -43,12 +43,16 @@
 			\author[
 			  addressref={aff1},                   % ESTA LINEA SE COPIA IGUAL PARA CADA AUTOR
 			  corref={aff1},                       % ESTA LINEA SOLO DEBE TENERLA EL COORDINADOR DEL GRUPO
-			  email={jane.e.doe@cambridge.co.uk}   % VUESTRO CORREO ACTIVO
-			]{\inits{J.E.}\fnm{Jane E.} \snm{Doe}} % inits: INICIALES DE AUTOR, fnm: NOMBRE DE AUTOR, snm: APELLIDOS DE AUTOR
+			  email={lauranunezj99@uma.es}   % VUESTRO CORREO ACTIVO
+			]{\inits{L.N.J}\fnm{Laura} \snm{Núñez Jiménez}} % inits: INICIALES DE AUTOR, fnm: NOMBRE DE AUTOR, snm: APELLIDOS DE AUTOR
 			\author[
 			  addressref={aff1},
 			  email={john.RS.Smith@cambridge.co.uk}
-			]{\inits{J.R.S.}\fnm{John R.S.} \snm{Smith}}
+			]{\inits{I.J.P}\fnm{Inmaculada} \snm{Jiménez Palomino}}
+			\author[
+			  addressref={aff1},
+			  email={talal.awija@gmail.com}
+			]{\inits{T.A}\fnm{Talal} \snm{Awija}}
 			
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			%% AFILIACION. NO TOCAR                     %%
@@ -67,6 +71,9 @@
 		
 			\begin{abstract} % abstract
 			
+            A continuación, el informe trata sobre los fármacos que tienen efecto sobre las proteínas humanas que interaccionan con las 27 proteínas del Covid-19. Este caso surge debido a la pandemia vivida en nuestros días producida por el virus SARS-CoV-2, el cual está causando millones de contagios alrededor del mundo y miles de muertes. Una de las principales causas por lo que no se desarrolla de manera efectiva la creación de fármacos es por el poco conocimiento que se tiene sobre el virus. Por ello, se requiere de la búsqueda de fármacos ya existentes que puedan interaccionar con las conexiones entre proteína humana y el SARS-CoV-2, y así afectar a la reacción del virus. Nos basamos en implementar la reutilización de medicamentos basadas en la red que surge de esta relación, lo que permite clasificar todos los medicamentos aprobados en función de su posible eficacia. Usando las bases de datos STRING obtendremos dicha red, que nos ayudará a obtener las 332 proteínas humanas, las cuales, usaremos posteriormente en la base de datos de ChEMBL. Con dicha base de datos obtendremos en él, el experimento de fármacos potenciales, así como información sobre cada uno de ellos. 
+
+ 
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			%% RESUMEN BREVE DE NO MAS DE 100 PALABRAS   %%
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
@@ -78,120 +85,17 @@
 			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			
 			\begin{keyword}
-			\kwd{sample}
-			\kwd{article}
-			\kwd{author}
+			\kwd{Covid-19}
+			\kwd{SARS-CoV-2}
+			\kwd{ChEMBL}
+			\kwd{Fármacos experimentales}
 			\end{keyword}
 		
 		
 		\end{abstractbox}
 	
 	\end{frontmatter}
-	
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	%% EJEMPLO DE LATEX %%                                                                %%
-	%% BORRAR ANTES DE ENTREGAR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!              %%
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	
-	\section*{Content}
-		Text and results for this section, as per the individual journal's instructions for authors. Here, we reference the figure \ref{fig:cost_genome} and figure \ref{fig:cost_megabase} but also the table \ref{tab:ejemplo}.
-	
-	\section*{Section title}
-		Text for this section\ldots
 
-		In this section we examine the growth rate of the mean of $Z_0$, $Z_1$ and $Z_2$. In
-		addition, we examine a common modeling assumption and note the
-		importance of considering the tails of the extinction time $T_x$ in
-		studies of escape dynamics.
-		We will first consider the expected resistant population at $vT_x$ for
-		some $v>0$, (and temporarily assume $\alpha=0$)
-		%
-		\[
-		E \bigl[Z_1(vT_x) \bigr]=
-		\int_0^{v\wedge
-			1}Z_0(uT_x)
-		\exp (\lambda_1)\,du .
-		\]
-		%
-		If we assume that sensitive cells follow a deterministic decay
-		$Z_0(t)=xe^{\lambda_0 t}$ and approximate their extinction time as
-		$T_x\approx-\frac{1}{\lambda_0}\log x$, then we can heuristically
-		estimate the expected value as
-		%
-		\begin{equation}\label{eqexpmuts}
-			\begin{aligned}[b]
-				&      E\bigl[Z_1(vT_x)\bigr]\\
-				&\quad      = \frac{\mu}{r}\log x
-				\int_0^{v\wedge1}x^{1-u}x^{({\lambda_1}/{r})(v-u)}\,du .
-			\end{aligned}
-		\end{equation}
-		%
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		%% USAR \cite{...} PARA INCLUIR REFERENCIAS BIBLIOGRAFICAS          %%
-		%%  \cite{koon}  Para una sola                                      %%
-		%%  \cite{oreg,khar,zvai,xjon,schn,pond} Para una lista             %%
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		Thus we observe that this expected value is finite for all $v>0$ (also see \cite{koon,xjon,marg,schn,koha,issnic}).
-		
-		
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		%% FIGURAS                                                                               %%
-		%% includegraphics: inserta la imagen                                                    %%
-		%% caption: descripcion de la figura                                                     %%
-		%% label: etiqueta para hacer referencia a la figura en el texto con la instrucción ref  %%
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
-		
-		\begin{figure}[h!]
-			\includegraphics[width=0.9\textwidth]{figures/Sequencing_Cost_per_Genome_May2020.jpg}
-			\caption{Sample figure title}
-			\label{fig:cost_genome}
-		\end{figure}
-		
-		\begin{figure}[h!]
-			\includegraphics[width=0.9\textwidth]{figures/Sequencing_Cost_per_Megabase_May2020.jpg}
-			\caption{Sample figure title}
-			\label{fig:cost_megabase}
-		\end{figure}
-		
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		%% TABLAS                                                                               %%
-		%% caption: Descripción tabla                                                           %%
-		%% \begin{tabular}{letras}: Indica numero de columnas.                                  %%
-		%%    Una letra por columna, la letra indica la alineación de la columna:               %%
-		%%    c center, l left, r right                                                         %%
-		%% hline: Representa una linea como entre filas                                         %%
-		%% \\: fin de fila                                                                      %%
-		%% &: delimitador de celda                                                              %%
-		%% label: etiqueta para hacer referencia a la tabla en el texto con la instrucción ref  %%
-		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-		
-		\begin{table}[h!]
-			\caption{Sample table title. This is where the description of the table should go}
-			\begin{tabular}{cccc}
-				\hline
-				& B1  &B2   & B3\\ 
-				\hline
-				A1 & 0.1 & 0.2 & 0.3\\
-				A2 & ... & ..  & .\\
-				A3 & ..  & .   & .\\ 
-				\hline
-				\label{tab:ejemplo}
-			\end{tabular}
-		\end{table}
-				
-		\subsection*{Sub-heading for section}
-			Text for this sub-heading\ldots
-	
-			\subsubsection*{Sub-sub heading for section}
-				Text for this sub-sub-heading\ldots
-					
-					\paragraph*{Sub-sub-sub heading for section}
-						Text for this sub-sub-sub-heading\ldots
-	
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	%% FIN DE EJEMPLO !!!!!!!!!!!! %%
-	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%% COMIENZO DEL DOCUMENTO REAL %%
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -208,17 +112,16 @@
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
 	\begin{backmatter}
-	
-		\section*{Abreviaciones}%% if any
-			Indicar lista de abreviaciones mostrando cada acrónimo a que corresponde
 		
 		\section*{Disponibilidad de datos y materiales}%% if any
-			Debéis indicar aquí un enlace a vuestro repositorio de github.
+			https://github.com/talal314/project_template.git
 		
 		\section*{Contribución de los autores}
-			Usando las iniciales que habéis definido al comienzo del documento, debeis indicar la contribución al proyecto en el estilo:
-			J.E : Encargado del análisis de coexpresión con R, escritura de resultados; J.R.S : modelado de red con python y automatizado del código, escritura de métodos; ...
-			OJO: que sea realista con los registros que hay en vuestros repositorios de github. 
+			T.A:Uso y descarga de la base de datos ChEMBL,consultas y recorrido de tablas sobre la bases de datos, Connectar a la base de datos desde python para guardar los resultados en una tabla y filtración de datos con R. 
+			
+			I.J.P: Obtención de las proteinas humanas, creación de igraph y mapeo de dichas proteínas, filtración de las interacciones con combined score y transformación del id a uniprot id. 
+			
+			L.N.J: Redacción del informe de la investigación. Consultar y buscar información en artículos y la obtención de las 29 proteínas del SARS-CoV-2. 
 		
 		
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -227,7 +130,7 @@
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		
 		\bibliographystyle{bmc-mathphys} % Style BST file (bmc-mathphys, vancouver, spbasic).
-		\bibliography{bibliography}      % Bibliography file (usually '*.bib' )
+		\bibliography{library}      % Bibliography file (usually '*.bib' )
 	
 	\end{backmatter}
 \end{document}
